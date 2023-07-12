@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/st-petersburg-gamble/static/css/main.ddb2e3ca.css",
+    "main.js": "/st-petersburg-gamble/static/js/main.940700af.js",
+    "static/js/787.4a4c1f81.chunk.js": "/st-petersburg-gamble/static/js/787.4a4c1f81.chunk.js",
+    "static/media/example1.png": "/st-petersburg-gamble/static/media/example1.340a906d5ecc4c70debb.png",
+    "static/media/example2.png": "/st-petersburg-gamble/static/media/example2.3245f07190223efb68c0.png",
+    "static/media/example3.png": "/st-petersburg-gamble/static/media/example3.46eebf0ac04d07725345.png",
+    "index.html": "/st-petersburg-gamble/index.html",
+    "main.ddb2e3ca.css.map": "/st-petersburg-gamble/static/css/main.ddb2e3ca.css.map",
+    "main.940700af.js.map": "/st-petersburg-gamble/static/js/main.940700af.js.map",
+    "787.4a4c1f81.chunk.js.map": "/st-petersburg-gamble/static/js/787.4a4c1f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb2e3ca.css",
+    "static/js/main.940700af.js"
+  ]
+}
