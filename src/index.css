@@ -11,3 +11,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  flex-basis: calc(33.33% - 20px);
+  margin: 10px;
+  text-align: center;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+}
+
+.image h3 {
+  margin: 5px 0;
+}
+
+.image p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .image {
+    flex-basis: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 480px) {
+  .image {
+    flex-basis: 100%;
+  }
+}
+
+.desc{
+  font-size: large;
+}
+.App{
+  padding-bottom: 200px;
+  margin: auto;
+}
+
+.chart-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
