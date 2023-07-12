@@ -1,6 +1,6 @@
 {
+  "homepage": "http://ge-naks.giohub.io/survey",
   "name": "dynamic-wealth-generating-processes-survey",
-  "homepage": "http://ge-naks.giohub.io/st-petersburg-gamble",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
